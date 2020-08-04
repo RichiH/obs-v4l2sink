@@ -33,7 +33,7 @@ issue #17][vcam#17].
 - Install QT
 
 ```
-sudo apt install qtbase5-dev
+sudo apt install build-essential cmake qtbase5-dev v4l2loopback-dkms
 ```
 
 - Get obs-studio source code
